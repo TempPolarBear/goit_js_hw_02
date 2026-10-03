@@ -4,10 +4,10 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Условные конструкции
-- Строковые методы
-- Ограничение длины сообщения и проверка спама
-- Расчёт стоимости доставки
+- Conditional statements
+- String methods
+- Message-length limiting and spam detection
+- Delivery-cost calculation
 
 ## Technologies
 
